@@ -45,7 +45,7 @@ Users should be able to:
 - Tailwind
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Typescript](https://nextjs.org/) - React framework
+- [Typescript](https://www.typescriptlang.org/) - extends JavaScript by adding types to the language
 
 ### What I learned
 
